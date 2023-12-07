@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @as-hi12
+- 👀 I’m interested in web developing...
+- 🌱 I’m currently learning ethical hacking and web developing ...
+- 💞️ I’m looking to collaborate on projects ...
+
+<!---
+as-hi12/as-hi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
